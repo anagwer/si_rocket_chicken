@@ -32,7 +32,7 @@
                 <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow notifications">
                     <li class="dropdown-header">
                         Kamu memiliki <?= $jml ?> notifikasi
-                        <a href="list_notifikasi.php"><span class="badge rounded-pill bg-primary p-2 ms-2">Lihat Semua</span></a>
+                        <a href="notifikasi.php"><span class="badge rounded-pill bg-primary p-2 ms-2">Lihat Semua</span></a>
                     </li>
                     <li><hr class="dropdown-divider"></li>
 
